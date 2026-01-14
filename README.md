@@ -23,10 +23,6 @@ A modern product card UI with interactive add-to-cart feedback, sound effects, a
 ---
 
 ## 📸 Preview
-
-Add screenshots in the repository and reference them like this:
-
-
 ![Desktop Preview](./Screenshot%202026-01-14%20154723.png)
 📂 Project Structure
 ```
@@ -39,7 +35,7 @@ Add screenshots in the repository and reference them like this:
 ```
 ▶️ How to Run Locally
 
-Clone the repository:
+Clone the repository
 ```
 https://golu-dhama.github.io/product-preview-card/
 ```
